@@ -1,6 +1,6 @@
 # [RSS Paging Example](https://github.com/kevinrevie/RSS-Paging-Example)
 
-Battle of the GitHub Stars is a JavaScript front-end page that lets you compare the statistics of two GitHub repositories.
+RSS Paging Example is an example of how to parse a cross domain RSS feed.  This project uses jQuery mobile for css and JavaScript.  This project is entirely in JavaScript, except for a PHP/.Net proxy file to get around the Ajax Cross-Origin error.  The code used Ajax to find reviews.  The page uses Facebook style paging where new results are automatically populated as the user scolls down.  The Web site is responsive.
 
 * Source: [https://github.com/kevinrevie/RSS-Paging-Example](https://github.com/kevinrevie/RSS-Paging-Example)
 
